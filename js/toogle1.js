@@ -1,0 +1,1 @@
+$(document).ready((function(){$(".m-menu").click((function(){$(".nav-responsive").toggle(),$(".nav-search").hide(),document.body.scrollTop=0,document.documentElement.scrollTop=0})),$(".m-search").click((function(){$(".nav-search").toggle(),$(".nav-responsive").hide(),document.body.scrollTop=0,document.documentElement.scrollTop=0}))}));
